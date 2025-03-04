@@ -1,0 +1,5 @@
+package flightsheduleservice;
+
+public class Flight {
+
+}

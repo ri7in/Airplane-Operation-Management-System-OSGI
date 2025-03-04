@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;airlineoperationsdashboard.Activator.java&apos; to &apos;AirlineOperationsDashboardActivator.java&apos;&#x0D;&#x0A;- Original project: &apos;AirlineOperationsDashboard&apos;&#x0D;&#x0A;- Original element: &apos;airlineoperationsdashboard.Activator.java&apos;&#x0D;&#x0A;- Renamed element: &apos;airlineoperationsdashboard.AirlineOperationsDashboardActivator.java&apos;" description="Rename compilation unit &apos;Activator.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;airlineoperationsdashboard{Activator.java" name="AirlineOperationsDashboardActivator.java" references="false" stamp="1741079408246" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;baggagehandlingservice.Activator.java&apos; to &apos;BaggageHandlingActivator.java&apos;&#x0D;&#x0A;- Original project: &apos;BaggageHandlingService&apos;&#x0D;&#x0A;- Original element: &apos;baggagehandlingservice.Activator.java&apos;&#x0D;&#x0A;- Renamed element: &apos;baggagehandlingservice.BaggageHandlingActivator.java&apos;" description="Rename compilation unit &apos;Activator.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;baggagehandlingservice{Activator.java" name="BaggageHandlingActivator.java" references="false" stamp="1741077415498" version="1.0"/>
+</session>

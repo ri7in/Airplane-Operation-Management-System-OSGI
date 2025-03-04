@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.osgi.flightsheduleservice.FlightScheduleServiceImpl"/>
+    <fullyQualifiedTypeName name="securitycheckservice.SecurityCheckServiceImpl"/>
+    <fullyQualifiedTypeName name="com.osgi.flightsheduleservice.FlightScheduleListener"/>
+    <fullyQualifiedTypeName name="groundsupportservice.GroundSupportService"/>
+    <fullyQualifiedTypeName name="baggagehandlingservice.BaggageHandlingService"/>
+    <fullyQualifiedTypeName name="com.osgi.flightsheduleservice.FlightScheduleService"/>
+    <fullyQualifiedTypeName name="weatherairtrafficservice.WeatherAirTrafficService"/>
+    <fullyQualifiedTypeName name="securitycheckservice.SecurityCheckService"/>
+    <fullyQualifiedTypeName name="passengercheckinservice.PassengerCheckInService"/>
+</qualifiedTypeNameHistroy>

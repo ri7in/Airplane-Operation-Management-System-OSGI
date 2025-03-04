@@ -1,0 +1,5 @@
+package com.osgi.flightsheduleservice;
+
+public class FlightScheduleServiceImpl {
+
+}

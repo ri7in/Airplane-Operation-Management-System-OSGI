@@ -1,0 +1,5 @@
+package passengercheckinservice;
+
+public interface PassengerCheckInService {
+
+}

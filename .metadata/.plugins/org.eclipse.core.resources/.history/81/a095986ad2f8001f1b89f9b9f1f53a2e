@@ -1,0 +1,5 @@
+package securitycheckservice;
+
+public interface SecurityCheckService {
+
+}

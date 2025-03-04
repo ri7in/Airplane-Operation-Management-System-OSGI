@@ -1,0 +1,29 @@
+package baggagehandlingservice;
+
+import org.osgi.framework.BundleActivator;
+import org.osgi.framework.BundleContext;
+
+import servicepublisher.ServiceActivator;
+
+public class Activator implements BundleActivator {
+	
+	private static BundleContext context;
+
+	static BundleContext getContext() {
+		return context;
+	}
+
+	@Override
+	public void start(BundleContext context) throws Exception {
+		System.out.println("Start bunddle activator..");
+		Activator.context = context;
+	}
+	
+	@Override
+	public void stop(BundleContext context) throws Exception {
+		System.out.println("Stop bunndle activator");
+		Activator.context = null;
+
+	}
+
+}
