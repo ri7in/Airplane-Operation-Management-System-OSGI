@@ -45,7 +45,7 @@ Right-click the project > Build Path > Configure Build Path.
 
 Go to Libraries > Add External JARs.
 
-Add slf4j-api-x.x.x.jar and logback-classic-x.x.x.jar from the shared-libs/ folder.
+Add slf4j-api-x.x.x.jar and logback-classic-x.x.x.jar from the libs/ folder.
 
 Click Apply and Close.
 
