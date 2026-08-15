@@ -1,3 +1,11 @@
+# Airplane Operation Management System
+
+> University coursework project associated with [@ri7in](https://github.com/ri7in).
+
+A modular OSGi system covering airline passenger, baggage, flight, security, and support services.
+
+## Project Notes
+
 Monorepo Setup for Producers and Consumers
 
 This monorepo contains separate workspaces for different producers and consumers, all managed under a single Git repository. Each module is an independent project with its own functionality but shares common libraries and configurations.
